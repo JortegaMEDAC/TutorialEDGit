@@ -7,3 +7,4 @@ cout << "Más cambios en la rama de pruebas";
 
 Usuario user = new Usuario("Marcos");
 
+Vehiculo coche = new Vehiculo("4546DBZ");
